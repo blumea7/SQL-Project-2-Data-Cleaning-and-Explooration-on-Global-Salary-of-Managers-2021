@@ -177,4 +177,38 @@ Here's a snippet of the cleaned data:
 
 ### Data Analysis and Visualization
 --------------------------------------------------------------------------------------------------------------------------
-To follow...
+#### Notes: 
+1. Data Visualizations are done in Power BI. 
+2. Data visualizations are just derived from the queried tables in Data Exploration Section and not from the whole dataset. 
+
+#### Average Annual Salary of Managers per Age Group
+
+
+Findings:
+      
+1. Generally, older managers earn higher. This is opposite from what we've seen in our [FIFA 2021 Analysis](https://github.com/blumea7/SQL-Project-1-Data-Cleaning-and-Exploration-on-2021-FIFA-Dataset), where players' wage peak at 25-35 years old.
+2. Most managers' highest educational attainment is a college degree, followed by master's degree.
+       
+![Average Annual Salary of Managers per Age Group](https://github.com/blumea7/SQL-Project-2-Data-Cleaning-and-Explooration-on-Global-Salary-of-Managers-2021/blob/main/assets/1.%20Average%20Annual%20Salary%20per%20Age%20Group.JPG)
+
+#### Average Annual Salary of Managers Against Ratio of Women (per Industry)
+
+Findings:
+
+1. Generally, women dominate all industries in terms of quantity (as seen in the graph, ratio of women are always greater than 0.5)
+      - However, as the ratio of women in an industry increases, the average annual salary usually decreases.
+
+![verage Annual Salary of Managers Against Ratio of Women](https://github.com/blumea7/SQL-Project-2-Data-Cleaning-and-Explooration-on-Global-Salary-of-Managers-2021/blob/main/assets/2.%20Average%20Annual%20Salary%20against%20Women%20Share.JPG)
+
+#### Average Annual Salary of Managers per Gender and Industry
+
+Findings
+
+1. In most industries, men are paid higher. 
+2. The only 4 industries that pay women higher are 
+      - Law enforcement & security 
+      - Art & Design
+      - Library
+      - Hospitality & Events
+
+![Average Annual Salary of Managers per Gender and Industry](https://github.com/blumea7/SQL-Project-2-Data-Cleaning-and-Explooration-on-Global-Salary-of-Managers-2021/blob/main/assets/3.%20Average%20Annual%20Salary%20by%20Gender%20and%20Industry.JPG)
