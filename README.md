@@ -16,6 +16,8 @@ Here's a preview of the raw dataset:
 
 ### Data Cleaning
 --------------------------------------------------------------------------------------------------------------------------
+See data cleaning SQL script [here](https://github.com/blumea7/SQL-Project-2-Data-Cleaning-and-Explooration-on-Global-Salary-of-Managers-2021/blob/main/sql-scripts/MANAGER_SALARY_Data_Cleaning.sql). 
+
 The following steps were performed to clean the data:
 
 
@@ -62,6 +64,8 @@ Here's a snippet of the cleaned data:
 
 ### Data Exploration
 --------------------------------------------------------------------------------------------------------------------------
+See data exploration SQL script [here](https://github.com/blumea7/SQL-Project-2-Data-Cleaning-and-Explooration-on-Global-Salary-of-Managers-2021/blob/main/sql-scripts/MANAGER_SALARY_Data_Exploration.sql). 
+
 #### 1. Find the average annual salary of managers in each industry. Order the result by their salary in descending order. Also, compute the ratio of women in each industry.
 
 
